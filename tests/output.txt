@@ -1,0 +1,5 @@
+
+***** Executing: go test *****
+
+/bin/sh: @go: command not found
+make: *** [go-test] Error 127
