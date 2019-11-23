@@ -6,7 +6,7 @@ Works with Terraform 0.12.x
 The purpose of the provisioner is to provide an easy method for running dynamically 
 the build-in remote-exec.
 
-```hcl-terraform
+```hcl
 locals {
   remote_execs = [
     {
